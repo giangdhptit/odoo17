@@ -1,0 +1,30 @@
+2024-06-28 10:41:44,706 7756 INFO ? odoo: Odoo version 17.0 
+2024-06-28 10:41:44,706 7756 INFO ? odoo: Using configuration file at C:\Users\giang.dinh\Desktop\odoo-17.0\odoo.conf 
+2024-06-28 10:41:44,707 7756 INFO ? odoo: addons paths: ['C:\\Users\\giang.dinh\\Desktop\\odoo-17.0\\odoo\\addons', 'c:\\users\\giang.dinh\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\addons', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\odoo\\addons'] 
+2024-06-28 10:41:44,707 7756 INFO ? odoo: database: odoo@localhost:5432 
+2024-06-28 10:41:48,746 7756 INFO ? odoo.sql_db: Connection to the database failed 
+2024-06-28 10:41:54,454 13740 INFO ? odoo: Odoo version 17.0 
+2024-06-28 10:41:54,454 13740 INFO ? odoo: Using configuration file at C:\Users\giang.dinh\Desktop\odoo-17.0\odoo.conf 
+2024-06-28 10:41:54,454 13740 INFO ? odoo: addons paths: ['C:\\Users\\giang.dinh\\Desktop\\odoo-17.0\\odoo\\addons', 'c:\\users\\giang.dinh\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\addons', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\odoo\\addons'] 
+2024-06-28 10:41:54,454 13740 INFO ? odoo: database: odoo@localhost:5432 
+2024-06-28 10:41:58,512 13740 INFO ? odoo.sql_db: Connection to the database failed 
+2024-06-28 10:56:40,295 4580 INFO ? odoo: Odoo version 17.0 
+2024-06-28 10:56:40,295 4580 INFO ? odoo: Using configuration file at C:\Users\giang.dinh\Desktop\odoo-17.0\odoo.conf 
+2024-06-28 10:56:40,295 4580 INFO ? odoo: addons paths: ['C:\\Users\\giang.dinh\\Desktop\\odoo-17.0\\odoo\\addons', 'c:\\users\\giang.dinh\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\addons', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\odoo\\addons'] 
+2024-06-28 10:56:40,295 4580 INFO ? odoo: database: odoo@localhost:5432 
+2024-06-28 10:56:40,312 4580 INFO ? odoo.sql_db: Connection to the database failed 
+2024-06-28 11:01:16,650 9892 INFO ? odoo: Odoo version 17.0 
+2024-06-28 11:01:16,651 9892 INFO ? odoo: Using configuration file at C:\Users\giang.dinh\Desktop\odoo-17.0\odoo.conf 
+2024-06-28 11:01:16,651 9892 INFO ? odoo: addons paths: ['C:\\Users\\giang.dinh\\Desktop\\odoo-17.0\\odoo\\addons', 'c:\\users\\giang.dinh\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\addons', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\odoo\\addons'] 
+2024-06-28 11:01:16,651 9892 INFO ? odoo: database: odoo@localhost:5432 
+2024-06-28 11:01:16,668 9892 INFO ? odoo.sql_db: Connection to the database failed 
+2024-06-28 11:03:33,869 13876 INFO ? odoo: Odoo version 17.0 
+2024-06-28 11:03:33,869 13876 INFO ? odoo: Using configuration file at C:\Users\giang.dinh\Desktop\odoo-17.0\odoo.conf 
+2024-06-28 11:03:33,869 13876 INFO ? odoo: addons paths: ['C:\\Users\\giang.dinh\\Desktop\\odoo-17.0\\odoo\\addons', 'c:\\users\\giang.dinh\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\addons', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\odoo\\addons'] 
+2024-06-28 11:03:33,869 13876 INFO ? odoo: database: odoo@localhost:5432 
+2024-06-28 11:03:33,887 13876 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-01 07:45:04,978 16752 INFO ? odoo: Odoo version 17.0 
+2024-07-01 07:45:04,979 16752 INFO ? odoo: Using configuration file at C:\Users\giang.dinh\Desktop\odoo-17.0\odoo.conf 
+2024-07-01 07:45:04,979 16752 INFO ? odoo: addons paths: ['C:\\Users\\giang.dinh\\Desktop\\odoo-17.0\\odoo\\addons', 'c:\\users\\giang.dinh\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\addons', 'c:\\users\\giang.dinh\\desktop\\odoo-17.0\\odoo\\addons'] 
+2024-07-01 07:45:04,979 16752 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-01 07:45:05,096 16752 INFO ? odoo.sql_db: Connection to the database failed 
